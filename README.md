@@ -38,7 +38,7 @@ O protótipo inclui:
 O diagrama representa as principais funcionalidades do sistema, com base nas ações do **administrador** e do **usuário**.
 
 
-> ![Diagrama de Casos de Uso](https://github.com/MarlonUTF/QuizAPS3B/blob/main/DiagramaCasosDeUso.jpeg)
+> ![Diagrama de Casos de Uso](https://github.com/MarlonUTF/QuizAPS3B/blob/main/DiagramaCasosDeUso.jpg)
 
 ### 🧩 Descrição dos Casos de Uso
 
